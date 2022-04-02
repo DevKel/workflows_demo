@@ -1,0 +1,2 @@
+To add and commit the hellow world file, then push
+git add . 
